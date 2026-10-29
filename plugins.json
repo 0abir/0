@@ -1,7 +1,7 @@
 [
     {
-        "iconUrl": "http://103.81.105.142:8889/logos/btv-hd.png",
-        "fileHash": "sha256-d14f899a3dad4bba8a535ba3ff11da3f6d9651f318c1996a266f64f4b04fa71a",
+        "iconUrl": "https://flagcdn.com/h240/bd.png",
+        "fileHash": "sha256-355d5440d5a0e0be06349b2c558736a4621012c0fb0b37152d3ae9ad4ca883e3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/0abir/0",
         "fileSize": 28601,
@@ -15,7 +15,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Local",
         "description": "Live TV channels and VOD Movies & Series for CloudStream",
         "url": "https://raw.githubusercontent.com/0abir/0/0/Local.cs3",

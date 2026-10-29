@@ -1,5 +1,6 @@
 {
   "name": "Local",
+  "iconUrl": "https://flagcdn.com/h240/bd.png",
   "description": "Local TV Live Channels & VOD Streaming Extension for CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
