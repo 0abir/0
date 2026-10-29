@@ -1,6 +1,26 @@
 [
     {
         "iconUrl": "https://flagcdn.com/h240/bd.png",
+        "fileHash": "sha256-18dc418e4a12d63abec67ca6e1b44d6a8a71ec1002e4be90617fde4130390fde",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/0abir/0",
+        "fileSize": 13467,
+        "status": 1,
+        "language": "bn",
+        "authors": [
+            "Local"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Live",
+        "description": "Live TV channels for CloudStream",
+        "url": "https://raw.githubusercontent.com/0abir/0/0/Live.cs3",
+        "name": "Live"
+    },
+    {
+        "iconUrl": "https://flagcdn.com/h240/bd.png",
         "fileHash": "sha256-355d5440d5a0e0be06349b2c558736a4621012c0fb0b37152d3ae9ad4ca883e3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/0abir/0",
